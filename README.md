@@ -1,2 +1,2 @@
 # Fonts
-repo fonts fonts
+repo with favorite selected fonts
